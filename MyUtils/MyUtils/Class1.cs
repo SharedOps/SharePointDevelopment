@@ -12,6 +12,8 @@ namespace MyUtils
         public Class1()
         {
             Console.WriteLine("hello");
+
+            string x = System.DateTime.Today.ToString();
         }
     }
 }
